@@ -12,6 +12,7 @@ This idea is valuable because it explores student well-being and academic habits
 I looked at survey data and compared hours studies versus reported stress.
 ## Visualization
 ![Graph 1](static/imgs/graph1.png)
+
 ![Graph 2](static/imgs/graph2.png)
 
 ## Conclusion
